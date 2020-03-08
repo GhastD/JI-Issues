@@ -33,3 +33,6 @@ Add any other context about the problem here.
 
 **Log**
 Please provide your latest.log here. It helps a lot to troubleshoot such issues.
+
+**Contact info**
+Discord: Fill this in
